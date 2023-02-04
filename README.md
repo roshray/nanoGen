@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/unicornAGI/silver">
+  <a href="https://github.com/roshray/nanoGen">
     <img src="frontend/src/assets/logo.png" alt="Logo" width="280" height="80">
   </a>
 
@@ -21,14 +21,14 @@
   <p align="center">
     An Image Generation & sharing platform! 
     <br />
-    <a href="https://github.com/unicornAGI/silver"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/roshray/nanoGen"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://www.youtube.com/watch?v=-1LC_N8UsaM">View Demo</a>
     ·
-    <a href="https://github.com/unicornAGI/silver/issues">Report Bug</a>
+    <a href="https://github.com/roshray/nanoGen/issues">Report Bug</a>
     ·
-    <a href="https://github.com/unicornAGI/silver/issues">Request Feature</a>
+    <a href="https://github.com/roshray/nanoGen/issues">Request Feature</a>
   </p>
 </div>
 
@@ -100,7 +100,7 @@ How to use the software and how to install them.
 1. Get a OpenAI API Key at [https://OpenAI.com](https://OpenAI.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/unicornAGI/silver.git
+   git clone https://github.com/roshray/nanoGen.git
    ```
 3. Install NPM packages
    ```sh
@@ -120,7 +120,7 @@ How to use the software and how to install them.
 
 Additional screenshots, code examples and demos are shared.
 
-_For more details, please refer to the [Documentation](https://github.com/unicornAGI/)_
+_For more details, please refer to the [Documentation](https://github.com/roshray/)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +134,7 @@ _For more details, please refer to the [Documentation](https://github.com/unicor
 - [X] Display the prompt on the image generated.
     - [X] Share the Image as feed in the community with search functionality.
 
-See the [open issues](https://github.com/unicornAGI/silver/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/roshray/nanoGen/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,7 +162,7 @@ Don't forget to give the project a star! Thanks again!
 
 Roshan Ray - [@rosh_ray_](https://twitter.com/rosh_ray_) - 97rayroshan@gmail.com
 
-Project Link: [https://github.com/unicornAGI/silver](https://github.com/unicornAGI/silver)
+Project Link: [https://github.com/roshray/nanoGen](https://github.com/roshray/nanoGen)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,19 +181,19 @@ Project Link: [https://github.com/unicornAGI/silver](https://github.com/unicornA
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/unicornAGI/silver.svg?style=for-the-badge
-[contributors-url]: https://github.com/unicornAGI/silver/commits/
-[forks-shield]: https://img.shields.io/github/forks/unicornAGI/silver.svg?style=for-the-badge
-[forks-url]: https://github.com/unicornAGI/silver/network/members
-[stars-shield]: https://img.shields.io/github/stars/unicornAGI/silver.svg?style=for-the-badge
-[stars-url]: https://github.com/unicornAGI/silver/stargazers
-[issues-shield]: https://img.shields.io/github/issues/unicornAGI/silver.svg?style=for-the-badge
-[issues-url]: https://github.com/unicornAGI/silver/issues
-[license-shield]: https://img.shields.io/github/license/unicornAGI/silver.svg?style=for-the-badge
-[license-url]: https://github.com/unicornAGI/silver/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/roshray/nanoGen.svg?style=for-the-badge
+[contributors-url]: https://github.com/roshray/nanoGen/commits/
+[forks-shield]: https://img.shields.io/github/forks/roshray/nanoGen.svg?style=for-the-badge
+[forks-url]: https://github.com/roshray/nanoGen/network/members
+[stars-shield]: https://img.shields.io/github/stars/roshray/nanoGen.svg?style=for-the-badge
+[stars-url]: https://github.com/roshray/nanoGen/stargazers
+[issues-shield]: https://img.shields.io/github/issues/roshray/nanoGen.svg?style=for-the-badge
+[issues-url]: https://github.com/roshray/nanoGen/issues
+[license-shield]: https://img.shields.io/github/license/roshray/nanoGen.svg?style=for-the-badge
+[license-url]: https://github.com/roshray/nanoGen/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/roshanray/
-[product-screenshot]: https://github.com/unicornAGI/silver/blob/main/silver.png
+[product-screenshot]: https://github.com/roshray/nanoGen/blob/main/nanoGen.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
